@@ -16,7 +16,7 @@ for(i=100;i<=999;i++)
        {
            if((arm1+arm2+arm3)==i)
            {
-               printf("%d is armstrong\n",i);// not taking no. 153
+               printf("%d is armstrong\n",i);
 
             }
 
