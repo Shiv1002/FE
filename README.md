@@ -1,1 +1,1 @@
-c program
+beginner in programming
